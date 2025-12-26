@@ -102,5 +102,4 @@ A complete, leakage-free churn prediction system using **XGBoost**, capable of p
 ## 🙌 Author ✨
 
 **Kunal Jhindal**  
-B.Tech AI & ML  
-Machine Learning | Data Science
+
