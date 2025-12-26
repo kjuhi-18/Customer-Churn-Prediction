@@ -84,9 +84,18 @@ The dataset includes customer **demographic, financial, and behavioral** informa
 
 ```
 customer-churn-prediction/
+│
 ├── data/
+│ └── Customer-Churn-Records.csv
+│
 ├── notebooks/
+│ ├── CustomerChurnPrediction.ipynb
+│ └── UserBasedInput.ipynb
+│
 ├── model/
+│ ├── model.pkl
+│ └── scaler.pkl
+│
 ├── README.md
 └── requirements.txt
 ```
